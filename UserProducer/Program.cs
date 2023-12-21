@@ -10,7 +10,7 @@ try
 	while ((name = Console.ReadLine()) != null)
 	{
 		Random rnd = new Random();
-        var response = await producer.ProduceAsync("userspermissions-topic",
+        var response = await producer.ProduceAsync("permissions-topic",
         new Message<Null, string> { Value = JsonConvert.SerializeObject(
 		new User(name, rnd.Next()))});
 		Console.WriteLine(response.Value);

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "yNdgWFUt8DRwMdmDGdWv4Do5Ko4ANBxGH9S3thn61N+EDUmG8KoIkzuy7viZG/HM8qymR+zEJqmlJbkqAj9b9Q==",
+  "success": true,
+  "projectFilePath": "C:\\backendext\\challengen5producerkafka\\UserProducer\\PermissionProducer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Emmanuel jimenez\\.nuget\\packages\\confluent.kafka\\2.2.0\\confluent.kafka.2.2.0.nupkg.sha512",
+    "C:\\Users\\Emmanuel jimenez\\.nuget\\packages\\librdkafka.redist\\2.2.0\\librdkafka.redist.2.2.0.nupkg.sha512",
+    "C:\\Users\\Emmanuel jimenez\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Emmanuel jimenez\\.nuget\\packages\\system.memory\\4.5.0\\system.memory.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
